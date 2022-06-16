@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"ms-vscode.cmake-tools",
+		"ms-vscode.cpptools"
+	],
+	"unwantedRecommendations": [
+		"josetr.cmake-language-support-vscode"
+	]
+}

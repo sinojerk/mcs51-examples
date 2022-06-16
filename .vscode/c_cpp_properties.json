@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "mcs51",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/delay",
+                "/usr/share/sdcc/include/mcs51"
+            ],
+            "defines": [
+                "__SDCC_mcs51_lint=1",
+                ""
+            ],
+            "compilerPath": "/usr/bin/sdcc",
+            "cStandard": "c11"
+        }
+    ],
+    "version": 4
+}
